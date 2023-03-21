@@ -1,5 +1,5 @@
-# Semi-supervised-keypoint-annotate-server-for-COCO-Annotator(YOLOPose)
-* 使用YOLOPose进行半监督关键点标注，用于COCO-Annotator标注工具
+
+# 使用YOLOPose进行半监督关键点标注，用于COCO-Annotator标注工具
 * The server is built based on Flask
 * 服务端基于flask搭建
 * The output contains bounding boxes, but currently only keypoints can be marked, not both. I don't have time to study the front-end code
